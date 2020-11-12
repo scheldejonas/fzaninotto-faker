@@ -1,5 +1,8 @@
 {
-    "name": "fzaninotto/faker",
+    "name": "scheldejonas/fzaninotto-faker",
+    "replace": {
+        "fzaninotto/faker": "*"
+    },
     "type": "library",
     "description": "Faker is a PHP library that generates fake data for you.",
     "keywords": [
